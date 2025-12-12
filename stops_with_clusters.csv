@@ -1,0 +1,16 @@
+stop_id,stop_name,lat,lon,avg_passengers_per_hour,dwell_time_sec,boarding_type,fare_cop,boarding_type_code,pass_per_dwell,kmeans_cluster,dbscan_cluster
+1,Central,5.61,-73.52,120,50,frontal,3000,0,2.4,1,-1
+2,Terminal Norte,5.62,-73.53,150,60,medio,3000,1,2.5,1,-1
+3,La Esperanza,5.63,-73.5,90,40,trasero,2800,2,2.25,1,0
+4,Industrial,5.57,-73.48,70,35,frontal,2800,0,2.0,1,1
+5,Rural 1,5.7,-73.6,20,20,frontal,2600,0,1.0,0,-1
+6,Rural 2,5.71,-73.61,15,15,medio,2600,1,1.0,0,-1
+7,Comercial,5.6,-73.49,110,55,trasero,3000,2,2.0,1,0
+8,Hospital,5.58,-73.47,80,45,frontal,2800,0,1.7777777777777777,1,1
+9,Colegio,5.59,-73.46,60,38,medio,2700,1,1.5789473684210527,1,-1
+10,Zona Franca,5.61,-73.5,95,48,trasero,2900,2,1.9791666666666667,1,0
+11,Altos,5.73,-73.62,10,10,frontal,2500,0,1.0,0,-1
+12,Centro 2,5.64,-73.51,85,42,medio,2900,1,2.0238095238095237,1,2
+13,Mercado,5.62,-73.48,130,58,trasero,3000,2,2.2413793103448274,1,0
+14,Universidad,5.63,-73.47,140,65,frontal,3000,0,2.1538461538461537,1,-1
+15,Parque,5.65,-73.49,100,50,medio,2800,1,2.0,1,2

@@ -1,0 +1,3 @@
+kmeans_cluster,avg_passengers_per_hour,dwell_time_sec,pass_per_dwell
+0,15.0,15.0,1.0
+1,102.5,48.833333333333336,2.0754105667388334
